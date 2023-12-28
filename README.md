@@ -1,24 +1,23 @@
-# Akshat  Shukla
+## 🚀 Journey in Tech:
 
-👋 Hello there! I'm Akshat Shukla, a passionate 17-year-old currently studying BCA. I'm an aspiring Ethical Hacker with a deep interest in Cyber Security. 💻🔒
+Hey there! I'm on an exciting tech voyage exploring app and web development, gem crafting, and diving deep into AI (NLP).
 
-## About Me
+## 🔗 Connect:
 
-🌐 As the founder of the DarkX Community, I'm dedicated to promoting cybersecurity awareness and fostering a community of like-minded individuals. Together, we explore the fascinating world of hacking and security practices.
+[Instagram](https://www.instagram.com/binarybardakshat) | [LinkedIn](https://www.linkedin.com/in/binarybardakshat)
 
+## 💻 Tech Arsenal:
 
-## Developer Stack
+C | C++ | Dart | Java | HTML5 | JavaScript | Kotlin | Python | Firebase | Netlify | Bootstrap | Flutter | Flask | ANDROID  | LINUX | Arduino
 
-🛠️ My development toolbox includes a range of languages and technologies:
+## 📊 GitHub Stats:
 
-- Python 🐍
-- Java ☕
-- C/C++ 📚
-- C# ©️
-- SQL 📊
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=binarybardakshat&show_icons=true&theme=radical)](https://github.com/binarybardakshat)
 
-Feel free to connect with me, discuss collaboration opportunities, or explore exciting projects together! Let's make the digital world a safer place. 🌐🛡️
+## 🏆 GitHub Trophies:
 
+[![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=binarybardakshat&theme=darkhub)](https://github.com/binarybardakshat)
 
+## ✍️ Dev Wisdom:
 
-Looking forward to learning and growing together in the realm of cybersecurity and software development! 🚀
+_"Coding is not just about writing code, it's about creating a solution."_ 💡
